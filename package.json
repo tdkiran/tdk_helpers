@@ -1,0 +1,10 @@
+{
+  "name": "tdk_helpers",
+  "version": "0.0.1",
+  "description": "Custom helper function which will be used by different projects",
+  "main": "index.js",
+  "repository": "https://github.com/tdkiran/tdk_helpers.git",
+  "author": "Kiran, Thirumalaichery Dhakshianmoorthy",
+  "license": "MIT",
+  "private": false
+}
